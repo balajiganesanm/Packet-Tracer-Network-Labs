@@ -25,8 +25,7 @@ Today’s focus: create VLANs on switches and establish basic inter-VLAN routing
 ---
 
 ## 🖼️ Topology Screenshot
-![Day-02 Lab Screenshot](Screenshot day-02.png)
-Day-02/Screenshot day-02.png
+![Day-02 Lab Screenshot](Screenshot.png)
 
 ---
 
